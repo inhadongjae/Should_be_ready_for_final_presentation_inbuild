@@ -1,4 +1,4 @@
-# Shoulb_be_ready_for_final_presentation_inbuild
+# Should_be_ready_for_final_presentation_inbuild
 
 8/20
 -프론트엔드 보안 문제 해결(현재 완료)
